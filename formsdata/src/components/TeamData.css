@@ -1,0 +1,47 @@
+.container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-bottom: 50px; */
+}
+
+.team-data{
+    width: 60%;
+}
+
+.field-data{
+    width: 100%;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #E6E6FA;
+    color: black;
+}
+
+.submit-button{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.details{
+    display: flex;
+    justify-content: space-between;
+}
+
+.inputlength{
+    width: 60%;
+}
+
+#messages{
+    color: rgb(62, 100, 3);
+}
+
+#errors{
+    color: rgb(176, 4, 4);
+}
+
+.outputcontainer{
+    margin-top: 30px;
+}

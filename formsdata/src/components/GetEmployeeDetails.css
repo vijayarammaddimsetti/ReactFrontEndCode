@@ -1,0 +1,60 @@
+.container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.team-data{
+    width: 60%;
+}
+
+.field-data{
+    width: 100%;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.submit-button{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.details{
+    display: flex;
+    justify-content: space-between;
+}
+
+.inputlength{
+    width: 60%;
+}
+
+#messages{
+    color: rgb(62, 100, 3);
+}
+
+#errors{
+    color: rgb(176, 4, 4);
+}
+
+#data-output{
+    display: flex;
+    justify-content: space-between;
+}
+
+.outputcontainer{
+    margin-top: 40px;
+}
+
+.outputcontainer1{
+    margin-top: 50px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 40px;
+}

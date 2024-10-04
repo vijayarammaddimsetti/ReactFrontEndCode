@@ -1,0 +1,12 @@
+#employee-data{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.employee-card{
+    width: 50%;
+    margin-top: 20px;
+}

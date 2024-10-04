@@ -1,0 +1,57 @@
+.container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topcontainer{
+    width: 60%;
+}
+
+.field-data-employee{
+    width: 100%;
+    padding: 50px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    background-color: #E6E6FA;
+    color: black;
+}
+
+.submit-button{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.details{
+    display: flex;
+    justify-content: space-between;
+}
+
+.inputlength{
+    width: 60%;
+}
+
+#messages{
+    color: rgb(62, 100, 3);
+}
+
+#errors{
+    color: rgb(176, 4, 4);
+}
+
+.outputcontainer{
+    margin-top: 30px;
+}
+
+.legend{
+    /* background: rgba(228, 121, 144, 0.712); */
+    background-color: #E6E6FA;
+    padding: 5px;
+    color: black;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 6px;
+}
+
